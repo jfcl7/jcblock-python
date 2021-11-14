@@ -1,0 +1,9 @@
+# example allow list file
+
+9788012345;;tom cell
+9788123456;;cathy cell
+
+^([A-Z]+\s+)+(VT|SC)$;; <city> in Vermont or South Carolina
+
+# end of allow list
+
